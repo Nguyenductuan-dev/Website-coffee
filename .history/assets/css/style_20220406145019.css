@@ -299,6 +299,6 @@ button {
     font-size: var(--h2-font-size);
     margin-bottom: .25rem;
 }
-.specialty__group:hover .specialty__img {
+.specialty__group:hover ..specialty__img {
     transform: translateY(-.25rem);
 }
