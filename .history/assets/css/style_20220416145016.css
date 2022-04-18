@@ -371,10 +371,6 @@ button {
     font-size: 1.25rem;
     position: absolute;
     right: 1rem;
-    top: -1.25rem;
+    top: -125rem;
     box-shadow: 0 4px 12px hsla(206, 4%, 4%, .2);
-}
-.products__card:hover .products__img {
-    transform: translateY(-.25rem);
-
 }
