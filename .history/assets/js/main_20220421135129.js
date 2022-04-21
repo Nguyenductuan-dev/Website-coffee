@@ -40,7 +40,7 @@ window.addEventListener('scroll', scrollheader);
 
 /* ======================= SHOW SCROLL UP ============================ */
 function scrollUp() {
-    const scrollUp = document.getElementById('scroll-up');
+    const scrollup = document.getElementById('scroll-up');
     if(this.scrollY >= 350){
         scrollUp.classList.add('show-scroll');
     }
@@ -48,4 +48,3 @@ function scrollUp() {
         scrollUp.classList.remove('show-scroll');
     }
 }
-window.addEventListener('scroll', scrollUp);

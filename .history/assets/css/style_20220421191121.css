@@ -882,7 +882,7 @@ button {
 
 @media screen and (min-width: 1200px) {
     .home__container {
-        padding-top: 10rem;
+        padding-top: 10px;
     }
     .home__data {
         padding-top: 3rem;
